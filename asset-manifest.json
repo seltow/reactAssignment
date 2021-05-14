@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactAssignment/static/css/main.f64503de.chunk.css",
+    "main.js": "/reactAssignment/static/js/main.6b2b4533.chunk.js",
+    "main.js.map": "/reactAssignment/static/js/main.6b2b4533.chunk.js.map",
+    "runtime-main.js": "/reactAssignment/static/js/runtime-main.864624d3.js",
+    "runtime-main.js.map": "/reactAssignment/static/js/runtime-main.864624d3.js.map",
+    "static/js/2.0e8bcbfa.chunk.js": "/reactAssignment/static/js/2.0e8bcbfa.chunk.js",
+    "static/js/2.0e8bcbfa.chunk.js.map": "/reactAssignment/static/js/2.0e8bcbfa.chunk.js.map",
+    "index.html": "/reactAssignment/index.html",
+    "static/css/main.f64503de.chunk.css.map": "/reactAssignment/static/css/main.f64503de.chunk.css.map",
+    "static/js/2.0e8bcbfa.chunk.js.LICENSE.txt": "/reactAssignment/static/js/2.0e8bcbfa.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactAssignment/static/media/bg-intro-mobile.02ce3982.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.864624d3.js",
+    "static/js/2.0e8bcbfa.chunk.js",
+    "static/css/main.f64503de.chunk.css",
+    "static/js/main.6b2b4533.chunk.js"
+  ]
+}
